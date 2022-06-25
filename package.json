@@ -39,7 +39,7 @@
     "js2xmlparser": "^4.0.1",
     "knex": "^0.19.5",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "objection": "^2.1.2",
     "request": "^2.88.2",
     "sqlite3": "^4.1.1"
