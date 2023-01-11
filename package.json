@@ -37,7 +37,7 @@
     "hapi-openapi": "^1.2.6",
     "iso_8583": "^2.6.5",
     "js2xmlparser": "^4.0.1",
-    "knex": "^0.19.5",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.0",
     "objection": "^2.1.2",
